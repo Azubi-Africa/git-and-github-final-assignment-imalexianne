@@ -20,23 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name             | Description                        | GitHub's Link                                       |
 |:--:|:------------------------:|:----------------------------------:|:---------------------------------------------------:|
-| 1 |  -CipherEncription        |  - It is a type of substitution    |https://github.com/imalexianne/CipherEncription      |                                 |    cipher in which each letter in  |
-                                |    the plaintext is replaced by a  |
-                                |     letter of some fixed number of |
-                                |    positions down the alphabet.    |                                                       | 2 |  -CipherDecription        |  - It is a type of substitution    |https://github.com/imalexianne/CipherDecription      |                                 |    cipher in which each letter in  |
-                                |    the ciphertext is replaced by a |
-                                |     letter of some fixed number of |
-                                |    positions up the alphabet.      |                                                       
-| 3 |  -Mortgage-Calculator     | - A mortgage calculator is a tool  | |https://github.com/imalexianne/CipherEncription    | 
-                                |   used to estimate mortgage        |
-                                |   payments for a home loan.        |
-                                |   It helps individuals or          |
-                                |   prospective homeowners           |
-                                |   calculate and understand         |
-                                |   the financial aspects of a       |
-                                |   mortgage, such as monthly        |
-                                |   payments, total interest paid,   |
-                                |   and loan amortization.           |                                                         
+| 1 |  -CipherEncription        |  - It is a type of Encryption      |https://github.com/imalexianne/CipherEncription      | | 2 |  -CipherDecription        |  - It is a type of Decryption      |https://github.com/imalexianne/CipherDecription      | | 3 |  -Mortgage-Calculator     | - It is a tool mortgage calculator |https://github.com/imalexianne/CipherEncription      | 
+                                
+                                                                          
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
