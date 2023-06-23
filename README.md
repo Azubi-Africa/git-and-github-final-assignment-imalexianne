@@ -18,11 +18,25 @@ The following steps constitute your assignment :
 The below table must contain the details of the repositories you will create, fill it please.
 
 
-|  | Project's Name | Description    | GitHub's Link  |
-|:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+|  | Project's Name             | Description                        | GitHub's Link                                       |
+|:--:|:------------------------:|:----------------------------------:|:---------------------------------------------------:|
+| 1 |  -CipherEncription        |  - It is a type of substitution    |https://github.com/imalexianne/CipherEncription      |                                 |    cipher in which each letter in  |
+                                |    the plaintext is replaced by a  |
+                                |     letter of some fixed number of |
+                                |    positions down the alphabet.    |                                                       | 2 |  -CipherDecription        |  - It is a type of substitution    |https://github.com/imalexianne/CipherDecription      |                                 |    cipher in which each letter in  |
+                                |    the ciphertext is replaced by a |
+                                |     letter of some fixed number of |
+                                |    positions up the alphabet.      |                                                       
+| 3 |  -Mortgage-Calculator     | - A mortgage calculator is a tool  | |https://github.com/imalexianne/CipherEncription    | 
+                                |   used to estimate mortgage        |
+                                |   payments for a home loan.        |
+                                |   It helps individuals or          |
+                                |   prospective homeowners           |
+                                |   calculate and understand         |
+                                |   the financial aspects of a       |
+                                |   mortgage, such as monthly        |
+                                |   payments, total interest paid,   |
+                                |   and loan amortization.           |                                                         
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
