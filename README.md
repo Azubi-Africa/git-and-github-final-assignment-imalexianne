@@ -22,7 +22,7 @@ The below table must contain the details of the repositories you will create, fi
 |:--:|:------------------------:|:----------------------------------:|:---------------------------------------------------:|
 | 1 |  -CipherEncription        |  - It is a type of Encryption      |https://github.com/imalexianne/CipherEncription      |
 | 2 |  -CipherDecription        |  - It is a type of Decryption      |https://github.com/imalexianne/CipherDecription      | 
-| 3 |  -Mortgage-Calculator     | - It is a tool mortgage calculator |https://github.com/imalexianne/CipherEncription      | 
+| 3 |  -Mortgage-Calculator     | - It is a tool mortgage calculator |https://github.com/imalexianne/Mortgage-Calculator   | | 
                                 
 
 
