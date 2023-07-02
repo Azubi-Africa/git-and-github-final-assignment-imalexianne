@@ -18,11 +18,16 @@ The following steps constitute your assignment :
 The below table must contain the details of the repositories you will create, fill it please.
 
 
-|  | Project's Name | Description    | GitHub's Link  |
-|:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+|  | Project's Name             | Description                        | GitHub's Link                                       |
+|:--:|:------------------------:|:----------------------------------:|:---------------------------------------------------:|
+| 1 |  -CipherEncription        |  - It is a type of Encryption      |https://github.com/imalexianne/CipherEncription      |
+| 2 |  -CipherDecription        |  - It is a type of Decryption      |https://github.com/imalexianne/CipherDecription      | 
+| 3 |  -Mortgage-Calculator     | - It is a tool mortgage calculator |https://github.com/imalexianne/Mortgage-Calculator   | | 
+                                
+
+
+
+                                                                          
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
